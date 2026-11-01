@@ -1,0 +1,34 @@
+name: Refresh flight calendar
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fare-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Refresh fares
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          MAX_DAILY_CALLS: '10'
+        run: python update.py
+      - name: Commit new data
+        run: |
+          git config user.name 'flight-calendar-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/prices.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update cached flight prices'
+            git push
+          fi
