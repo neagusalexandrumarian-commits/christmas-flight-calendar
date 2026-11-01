@@ -1,0 +1,7 @@
+{
+  "updated_at": null,
+  "source": "Apify flight offers cheapest-date",
+  "prices": {},
+  "errors": {},
+  "notice": "No live prices loaded yet. Configure APIFY_TOKEN and run workflow."
+}
