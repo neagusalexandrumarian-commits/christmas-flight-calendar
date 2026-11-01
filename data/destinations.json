@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Vienna",
+    "airport": "VIE",
+    "alternative": "VIE",
+    "transfer": "S7 train, 25–30 min, approx. €5–6"
+  },
+  {
+    "name": "Prague",
+    "airport": "PRG",
+    "alternative": "PRG",
+    "transfer": "Bus + metro, 35–50 min, approx. €2–3"
+  },
+  {
+    "name": "Strasbourg",
+    "airport": "SXB",
+    "alternative": "BSL",
+    "transfer": "From BSL: bus + train, approx. 90–120 min, €15–30"
+  },
+  {
+    "name": "Colmar",
+    "airport": "BSL",
+    "alternative": "BSL",
+    "transfer": "Bus to Saint-Louis + train, approx. 60–90 min, €12–25"
+  },
+  {
+    "name": "Copenhagen",
+    "airport": "CPH",
+    "alternative": "CPH",
+    "transfer": "Metro/train, 15–20 min, approx. €5–6"
+  },
+  {
+    "name": "Stockholm",
+    "airport": "ARN",
+    "alternative": "ARN",
+    "transfer": "Train/bus, 20–50 min, approx. €12–30"
+  },
+  {
+    "name": "Gothenburg",
+    "airport": "GOT",
+    "alternative": "GOT",
+    "transfer": "Airport coach, 25–35 min, approx. €12–15"
+  },
+  {
+    "name": "Tallinn",
+    "airport": "TLL",
+    "alternative": "TLL",
+    "transfer": "Public bus, 20–30 min, approx. €2–3"
+  },
+  {
+    "name": "Nuremberg",
+    "airport": "NUE",
+    "alternative": "NUE",
+    "transfer": "U2 metro, 12–15 min, approx. €4–5"
+  },
+  {
+    "name": "Rovaniemi",
+    "airport": "RVN",
+    "alternative": "RVN",
+    "transfer": "Local bus, 5–20 min, approx. €4–8"
+  }
+]
