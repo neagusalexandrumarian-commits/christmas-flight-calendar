@@ -23,7 +23,7 @@ recent = actor.runs().list(limit=100, desc=True, started_after=today.isoformat()
 cached = []
 for item in recent:
     run = client.run(item.id).get()
-    if run and run.status.value == 'SUCCEEDED':
+    if run and run.status == 'SUCCEEDED':
         record = client.key_value_store(run.default_key_value_store_id).get_record('INPUT')
         cached.append(((record or {}).get('value') or {}, run))
 max_calls = min(max(int(os.environ.get('MAX_DAILY_CALLS', '5')), 0), 5)
@@ -51,7 +51,7 @@ for dest in DEST[batch_start:batch_start + max_calls]:
             run = actor.call(run_input=inp, run_timeout=datetime.timedelta(seconds=240),
                 wait_duration=datetime.timedelta(seconds=300), max_total_charge_usd=Decimal('0.03'),
                 restart_on_error=False)
-            if not run or run.status.value != 'SUCCEEDED':
+            if not run or run.status != 'SUCCEEDED':
                 raise RuntimeError('Provider run did not succeed')
             cached.append((inp, run))
         record = client.key_value_store(run.default_key_value_store_id).get_record('RESPONSE')
