@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:30:19.816342+00:00",
+  "updated_at": "2026-11-06T15:07:06.683563+00:00",
   "source": "Apify flight offers cheapest-date",
   "prices": {
     "Vienna|2026-12-24|2026-12-29|OTP": {
@@ -813,6 +813,54 @@
       "checked_at": "2026-11-02T17:07:04.139000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
+      "baggage": "UNKNOWN",
+      "direct": "UNVERIFIED",
+      "airline": "Not supplied by cheapest-date endpoint",
+      "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
+    },
+    "Nuremberg|2026-12-26|2026-12-30|OTP": {
+      "price": 111.0,
+      "currency": "EUR",
+      "source": "Apify / Google Flights-derived",
+      "checked_at": "2026-11-06T15:04:45.398000+00:00",
+      "origin": "OTP",
+      "destination_airport": "NUE",
+      "baggage": "UNKNOWN",
+      "direct": "UNVERIFIED",
+      "airline": "Not supplied by cheapest-date endpoint",
+      "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
+    },
+    "Nuremberg|2026-12-21|2026-12-25|OTP": {
+      "price": 146.0,
+      "currency": "EUR",
+      "source": "Apify / Google Flights-derived",
+      "checked_at": "2026-11-06T15:04:45.398000+00:00",
+      "origin": "OTP",
+      "destination_airport": "NUE",
+      "baggage": "UNKNOWN",
+      "direct": "UNVERIFIED",
+      "airline": "Not supplied by cheapest-date endpoint",
+      "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
+    },
+    "Nuremberg|2026-12-23|2026-12-27|OTP": {
+      "price": 167.0,
+      "currency": "EUR",
+      "source": "Apify / Google Flights-derived",
+      "checked_at": "2026-11-06T15:04:45.398000+00:00",
+      "origin": "OTP",
+      "destination_airport": "NUE",
+      "baggage": "UNKNOWN",
+      "direct": "UNVERIFIED",
+      "airline": "Not supplied by cheapest-date endpoint",
+      "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
+    },
+    "Nuremberg|2026-12-19|2026-12-23|OTP": {
+      "price": 222.0,
+      "currency": "EUR",
+      "source": "Apify / Google Flights-derived",
+      "checked_at": "2026-11-06T15:04:45.398000+00:00",
+      "origin": "OTP",
+      "destination_airport": "NUE",
       "baggage": "UNKNOWN",
       "direct": "UNVERIFIED",
       "airline": "Not supplied by cheapest-date endpoint",
