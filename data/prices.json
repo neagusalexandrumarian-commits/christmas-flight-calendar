@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:31:52.383108+00:00",
+  "updated_at": "2026-11-10T15:39:21.736278+00:00",
   "source": "Apify flight offers cheapest-date",
   "prices": {
     "Vienna|2026-12-24|2026-12-29|OTP": {
@@ -967,6 +967,30 @@
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
       "checked_at": "2026-11-09T17:28:32.308000+00:00",
+      "origin": "BBU",
+      "destination_airport": "ARN",
+      "baggage": "UNKNOWN",
+      "direct": "UNVERIFIED",
+      "airline": "Not supplied by cheapest-date endpoint",
+      "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
+    },
+    "Stockholm|2026-12-24|2026-12-29|BBU": {
+      "price": 277.0,
+      "currency": "EUR",
+      "source": "Apify / Google Flights-derived",
+      "checked_at": "2026-11-10T15:35:49.409000+00:00",
+      "origin": "BBU",
+      "destination_airport": "ARN",
+      "baggage": "UNKNOWN",
+      "direct": "UNVERIFIED",
+      "airline": "Not supplied by cheapest-date endpoint",
+      "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
+    },
+    "Stockholm|2026-12-19|2026-12-24|BBU": {
+      "price": 329.0,
+      "currency": "EUR",
+      "source": "Apify / Google Flights-derived",
+      "checked_at": "2026-11-10T15:35:49.409000+00:00",
       "origin": "BBU",
       "destination_airport": "ARN",
       "baggage": "UNKNOWN",
