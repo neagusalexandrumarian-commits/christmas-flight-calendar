@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-12T16:00:01.100397+00:00",
+  "updated_at": "2026-11-13T15:25:06.131740+00:00",
   "source": "Apify flight offers cheapest-date",
   "prices": {
     "Vienna|2026-12-24|2026-12-29|OTP": {
-      "price": 78.0,
+      "price": 128.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -15,10 +15,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Vienna|2026-12-21|2026-12-26|OTP": {
-      "price": 119.0,
+      "price": 137.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -27,10 +27,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Vienna|2026-12-25|2026-12-30|OTP": {
-      "price": 121.0,
+      "price": 126.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -39,10 +39,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Vienna|2026-12-23|2026-12-28|OTP": {
-      "price": 137.0,
+      "price": 186.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -51,10 +51,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Vienna|2026-12-19|2026-12-24|OTP": {
-      "price": 147.0,
+      "price": 239.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -63,10 +63,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Vienna|2026-12-20|2026-12-25|OTP": {
-      "price": 148.0,
+      "price": 184.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -75,10 +75,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Vienna|2026-12-22|2026-12-27|OTP": {
-      "price": 156.0,
+      "price": 183.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -87,10 +87,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Vienna|2026-12-18|2026-12-23|OTP": {
-      "price": 236.0,
+      "price": 273.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:54:57.520000+00:00",
+      "checked_at": "2026-11-13T15:23:57.963000+00:00",
       "origin": "OTP",
       "destination_airport": "VIE",
       "baggage": "UNKNOWN",
@@ -99,10 +99,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Prague|2026-12-20|2026-12-25|OTP": {
-      "price": 114.0,
+      "price": 146.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:55:31.276000+00:00",
+      "checked_at": "2026-11-13T15:24:28.202000+00:00",
       "origin": "OTP",
       "destination_airport": "PRG",
       "baggage": "UNKNOWN",
@@ -111,10 +111,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Prague|2026-12-25|2026-12-30|OTP": {
-      "price": 157.0,
+      "price": 131.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:55:31.276000+00:00",
+      "checked_at": "2026-11-13T15:24:28.202000+00:00",
       "origin": "OTP",
       "destination_airport": "PRG",
       "baggage": "UNKNOWN",
@@ -123,10 +123,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Prague|2026-12-23|2026-12-28|OTP": {
-      "price": 177.0,
+      "price": 146.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:55:31.276000+00:00",
+      "checked_at": "2026-11-13T15:24:28.202000+00:00",
       "origin": "OTP",
       "destination_airport": "PRG",
       "baggage": "UNKNOWN",
@@ -135,10 +135,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Prague|2026-12-22|2026-12-27|OTP": {
-      "price": 202.0,
+      "price": 191.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:55:31.276000+00:00",
+      "checked_at": "2026-11-13T15:24:28.202000+00:00",
       "origin": "OTP",
       "destination_airport": "PRG",
       "baggage": "UNKNOWN",
@@ -147,10 +147,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Prague|2026-12-18|2026-12-23|OTP": {
-      "price": 227.0,
+      "price": 204.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:55:31.276000+00:00",
+      "checked_at": "2026-11-13T15:24:28.202000+00:00",
       "origin": "OTP",
       "destination_airport": "PRG",
       "baggage": "UNKNOWN",
@@ -159,10 +159,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-21|2026-12-26|OTP": {
-      "price": 153.0,
+      "price": 256.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -171,10 +171,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-22|2026-12-27|OTP": {
-      "price": 174.0,
+      "price": 292.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -183,10 +183,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-24|2026-12-29|OTP": {
-      "price": 177.0,
+      "price": 213.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -195,10 +195,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-25|2026-12-30|OTP": {
-      "price": 187.0,
+      "price": 178.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -207,10 +207,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-20|2026-12-25|OTP": {
-      "price": 209.0,
+      "price": 224.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -219,10 +219,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-23|2026-12-28|OTP": {
-      "price": 256.0,
+      "price": 251.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -231,10 +231,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-18|2026-12-23|OTP": {
-      "price": 286.0,
+      "price": 294.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -243,10 +243,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Strasbourg|2026-12-19|2026-12-24|OTP": {
-      "price": 312.0,
+      "price": 325.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -255,10 +255,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-21|2026-12-26|OTP": {
-      "price": 153.0,
+      "price": 256.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -267,10 +267,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-22|2026-12-27|OTP": {
-      "price": 174.0,
+      "price": 292.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -279,10 +279,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-24|2026-12-29|OTP": {
-      "price": 177.0,
+      "price": 213.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -291,10 +291,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-25|2026-12-30|OTP": {
-      "price": 187.0,
+      "price": 178.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -303,10 +303,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-20|2026-12-25|OTP": {
-      "price": 209.0,
+      "price": 224.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -315,10 +315,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-23|2026-12-28|OTP": {
-      "price": 256.0,
+      "price": 251.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -327,10 +327,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-18|2026-12-23|OTP": {
-      "price": 286.0,
+      "price": 294.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -339,10 +339,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Colmar|2026-12-19|2026-12-24|OTP": {
-      "price": 312.0,
+      "price": 325.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:02.829000+00:00",
+      "checked_at": "2026-11-13T15:24:43.556000+00:00",
       "origin": "OTP",
       "destination_airport": "BSL",
       "baggage": "UNKNOWN",
@@ -351,10 +351,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-24|2026-12-29|OTP": {
-      "price": 198.0,
+      "price": 167.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
@@ -363,10 +363,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-25|2026-12-30|OTP": {
-      "price": 209.0,
+      "price": 167.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
@@ -375,10 +375,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-21|2026-12-26|OTP": {
-      "price": 230.0,
+      "price": 198.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
@@ -387,10 +387,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-22|2026-12-27|OTP": {
-      "price": 230.0,
+      "price": 178.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
@@ -399,10 +399,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-20|2026-12-25|OTP": {
-      "price": 235.0,
+      "price": 206.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
@@ -411,10 +411,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-23|2026-12-28|OTP": {
-      "price": 271.0,
+      "price": 208.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
@@ -423,10 +423,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-19|2026-12-24|OTP": {
-      "price": 273.0,
+      "price": 260.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
@@ -435,10 +435,10 @@
       "note": "Indicative base round-trip fare. Nonstop requested; cabin suitcase and nonstop status need booking-site verification."
     },
     "Copenhagen|2026-12-18|2026-12-23|OTP": {
-      "price": 439.0,
+      "price": 292.0,
       "currency": "EUR",
       "source": "Apify / Google Flights-derived",
-      "checked_at": "2026-11-01T12:56:13.155000+00:00",
+      "checked_at": "2026-11-13T15:24:59.975000+00:00",
       "origin": "OTP",
       "destination_airport": "CPH",
       "baggage": "UNKNOWN",
